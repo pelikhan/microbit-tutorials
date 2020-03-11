@@ -8,7 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "micro-led.md"
     ],
     "testFiles": [
         "test.ts"
@@ -16,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
